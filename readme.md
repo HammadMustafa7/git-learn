@@ -1,6 +1,5 @@
 # This is my first github repository
-#JavaScript
-'''
-console.log(Git Learning)
 
-'''
+```javascript
+console.log(Git Learning)
+```
