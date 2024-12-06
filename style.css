@@ -1,0 +1,29 @@
+body{
+    background-color: #1a1a1a;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2{
+    text-align: center;
+}       
+
+p{
+    text-align: center;
+}   
+
+ul{
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;   
+}
+
+li{
+    display: inline-block;
+    margin: 0 10px;
+}
+
+footer{
+    text-align: center;
+}   
